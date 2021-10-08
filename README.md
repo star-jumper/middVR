@@ -1,5 +1,5 @@
 ## [insert project title here]
-### Middlebury College, Computer Science CSCI 701 (Fall 2020)
+### Middlebury College, Computer Science CSCI 701 (Fall 2021)
 
 ### about
 TODO: a few sentences describing your project
